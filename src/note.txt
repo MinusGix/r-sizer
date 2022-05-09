@@ -1,0 +1,3 @@
+Have Gc have a function to convert a raw pointer to a wrapper with no drop
+    Extra struct is kinda annoying?
+    We could use manually drop around the return type or make the entire thing with no drop function?
